@@ -38,3 +38,4 @@ jobs:
       - name: Show pwd
         run:
           pwd
+          ls
